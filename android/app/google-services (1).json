@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459947576024",
+    "project_id": "ai-interview-practice-ap-e57e4",
+    "storage_bucket": "ai-interview-practice-ap-e57e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459947576024:android:5806a8e447a239dda865ad",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj9gsf3vwKB78ZTMj58YaE_mCLPOyFbII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

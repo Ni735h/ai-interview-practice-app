@@ -1,0 +1,165 @@
+Date : 2026-04-24 19:56:12
+Directory : c:\Projects\ai_interview_app
+Total : 78 files,  8580 codes, 381 comments, 959 blanks, all 9920 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| Dart             |         18 |      6,266 |         53 |        523 |      6,842 |
+| C++              |         16 |        557 |        127 |        188 |        872 |
+| XML              |         11 |        480 |         42 |         20 |        542 |
+| CMake            |          7 |        460 |          0 |         89 |        549 |
+| JSON             |          7 |        326 |          0 |          4 |        330 |
+| Python           |          1 |        226 |        114 |         69 |        409 |
+| Gradle           |          3 |         95 |          0 |         18 |        113 |
+| Swift            |          6 |         68 |          7 |         20 |         95 |
+| HTML             |          1 |         38 |         16 |          6 |         60 |
+| YAML             |          2 |         36 |         22 |         12 |         70 |
+| Markdown         |          2 |         13 |          0 |          9 |         22 |
+| Java Properties  |          2 |          8 |          0 |          1 |          9 |
+| pip requirements |          1 |          6 |          0 |          0 |          6 |
+| Dotenv           |          1 |          1 |          0 |          0 |          1 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                       | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                          |         78 |      8,580 |        381 |        959 |      9,920 |
+| . (Files)                                                                                  |          4 |         47 |         22 |         19 |         88 |
+| ai_backend                                                                                 |          3 |        233 |        114 |         69 |        416 |
+| android                                                                                    |         15 |        256 |         40 |         36 |        332 |
+| android (Files)                                                                            |          3 |         47 |          0 |          9 |         56 |
+| android\app                                                                                |         11 |        204 |         40 |         27 |        271 |
+| android\app (Files)                                                                        |          3 |        128 |          0 |         10 |        138 |
+| android\app\src                                                                            |          8 |         76 |         40 |         17 |        133 |
+| android\app\src\debug                                                                      |          1 |          3 |          4 |          1 |          8 |
+| android\app\src\main                                                                       |          6 |         70 |         32 |         15 |        117 |
+| android\app\src\main (Files)                                                               |          1 |         40 |          0 |          9 |         49 |
+| android\app\src\main\res                                                                   |          5 |         30 |         32 |          6 |         68 |
+| android\app\src\main\res\drawable                                                          |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\drawable-v21                                                      |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\values                                                            |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\main\res\values-night                                                      |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\main\res\xml                                                               |          1 |          4 |          0 |          0 |          4 |
+| android\app\src\profile                                                                    |          1 |          3 |          4 |          1 |          8 |
+| android\gradle                                                                             |          1 |          5 |          0 |          0 |          5 |
+| android\gradle\wrapper                                                                     |          1 |          5 |          0 |          0 |          5 |
+| ios                                                                                        |          8 |        229 |          4 |         13 |        246 |
+| ios\Runner                                                                                 |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner (Files)                                                                         |          2 |         13 |          0 |          3 |         16 |
+| ios\RunnerTests                                                                            |          1 |          7 |          2 |          4 |         13 |
+| ios\Runner\Assets.xcassets                                                                 |          3 |        148 |          0 |          4 |        152 |
+| ios\Runner\Assets.xcassets\AppIcon.appiconset                                              |          1 |        122 |          0 |          1 |        123 |
+| ios\Runner\Assets.xcassets\LaunchImage.imageset                                            |          2 |         26 |          0 |          3 |         29 |
+| ios\Runner\Base.lproj                                                                      |          2 |         61 |          2 |          2 |         65 |
+| lib                                                                                        |         17 |      6,252 |         43 |        516 |      6,811 |
+| lib (Files)                                                                                |          2 |         94 |         12 |         12 |        118 |
+| lib\screens                                                                                |          9 |      5,499 |         20 |        397 |      5,916 |
+| lib\services                                                                               |          4 |        570 |          8 |        101 |        679 |
+| lib\theme                                                                                  |          1 |         12 |          0 |          1 |         13 |
+| lib\widgets                                                                                |          1 |         77 |          3 |          5 |         85 |
+| linux                                                                                      |          8 |        317 |         33 |         88 |        438 |
+| linux (Files)                                                                              |          4 |        212 |         24 |         61 |        297 |
+| linux\flutter                                                                              |          4 |        105 |          9 |         27 |        141 |
+| macos                                                                                      |          6 |        460 |          5 |         16 |        481 |
+| macos\Flutter                                                                              |          1 |         22 |          3 |          4 |         29 |
+| macos\Runner                                                                               |          4 |        431 |          0 |          8 |        439 |
+| macos\Runner (Files)                                                                       |          2 |         20 |          0 |          6 |         26 |
+| macos\RunnerTests                                                                          |          1 |          7 |          2 |          4 |         13 |
+| macos\Runner\Assets.xcassets                                                               |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Assets.xcassets\AppIcon.appiconset                                            |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Base.lproj                                                                    |          1 |        343 |          0 |          1 |        344 |
+| test                                                                                       |          1 |         14 |         10 |          7 |         31 |
+| web                                                                                        |          2 |         73 |         16 |          7 |         96 |
+| windows                                                                                    |         14 |        699 |         94 |        188 |        981 |
+| windows (Files)                                                                            |          1 |         89 |          0 |         20 |        109 |
+| windows\flutter                                                                            |          4 |        148 |          9 |         29 |        186 |
+| windows\runner                                                                             |          9 |        462 |         85 |        139 |        686 |
++--------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                                   | language         | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| c:\Projects\ai_interview_app\README.md                                                     | Markdown         |         10 |          0 |          7 |         17 |
+| c:\Projects\ai_interview_app\ai_backend\.env                                               | Dotenv           |          1 |          0 |          0 |          1 |
+| c:\Projects\ai_interview_app\ai_backend\main.py                                            | Python           |        226 |        114 |         69 |        409 |
+| c:\Projects\ai_interview_app\ai_backend\requirements.txt                                   | pip requirements |          6 |          0 |          0 |          6 |
+| c:\Projects\ai_interview_app\analysis_options.yaml                                         | YAML             |          3 |         22 |          4 |         29 |
+| c:\Projects\ai_interview_app\android\app\build.gradle                                      | Gradle           |         51 |          0 |         10 |         61 |
+| c:\Projects\ai_interview_app\android\app\google-services (1).json                          | JSON             |         29 |          0 |          0 |         29 |
+| c:\Projects\ai_interview_app\android\app\google-services.json                              | JSON             |         48 |          0 |          0 |         48 |
+| c:\Projects\ai_interview_app\android\app\src\debug\AndroidManifest.xml                     | XML              |          3 |          4 |          1 |          8 |
+| c:\Projects\ai_interview_app\android\app\src\main\AndroidManifest.xml                      | XML              |         40 |          0 |          9 |         49 |
+| c:\Projects\ai_interview_app\android\app\src\main\res\drawable-v21\launch_background.xml   | XML              |          4 |          7 |          2 |         13 |
+| c:\Projects\ai_interview_app\android\app\src\main\res\drawable\launch_background.xml       | XML              |          4 |          7 |          2 |         13 |
+| c:\Projects\ai_interview_app\android\app\src\main\res\values-night\styles.xml              | XML              |          9 |          9 |          1 |         19 |
+| c:\Projects\ai_interview_app\android\app\src\main\res\values\styles.xml                    | XML              |          9 |          9 |          1 |         19 |
+| c:\Projects\ai_interview_app\android\app\src\main\res\xml\network_security_config.xml      | XML              |          4 |          0 |          0 |          4 |
+| c:\Projects\ai_interview_app\android\app\src\profile\AndroidManifest.xml                   | XML              |          3 |          4 |          1 |          8 |
+| c:\Projects\ai_interview_app\android\build.gradle                                          | Gradle           |         22 |          0 |          4 |         26 |
+| c:\Projects\ai_interview_app\android\gradle.properties                                     | Java Properties  |          3 |          0 |          1 |          4 |
+| c:\Projects\ai_interview_app\android\gradle\wrapper\gradle-wrapper.properties              | Java Properties  |          5 |          0 |          0 |          5 |
+| c:\Projects\ai_interview_app\android\settings.gradle                                       | Gradle           |         22 |          0 |          4 |         26 |
+| c:\Projects\ai_interview_app\firebase.json                                                 | JSON             |          1 |          0 |          0 |          1 |
+| c:\Projects\ai_interview_app\ios\RunnerTests\RunnerTests.swift                             | Swift            |          7 |          2 |          4 |         13 |
+| c:\Projects\ai_interview_app\ios\Runner\AppDelegate.swift                                  | Swift            |         12 |          0 |          2 |         14 |
+| c:\Projects\ai_interview_app\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json   | JSON             |        122 |          0 |          1 |        123 |
+| c:\Projects\ai_interview_app\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json | JSON             |         23 |          0 |          1 |         24 |
+| c:\Projects\ai_interview_app\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md     | Markdown         |          3 |          0 |          2 |          5 |
+| c:\Projects\ai_interview_app\ios\Runner\Base.lproj\LaunchScreen.storyboard                 | XML              |         36 |          1 |          1 |         38 |
+| c:\Projects\ai_interview_app\ios\Runner\Base.lproj\Main.storyboard                         | XML              |         25 |          1 |          1 |         27 |
+| c:\Projects\ai_interview_app\ios\Runner\Runner-Bridging-Header.h                           | C++              |          1 |          0 |          1 |          2 |
+| c:\Projects\ai_interview_app\lib\firebase_options.dart                                     | Dart             |         70 |         12 |          7 |         89 |
+| c:\Projects\ai_interview_app\lib\main.dart                                                 | Dart             |         24 |          0 |          5 |         29 |
+| c:\Projects\ai_interview_app\lib\screens\about_screen.dart                                 | Dart             |         30 |          0 |          2 |         32 |
+| c:\Projects\ai_interview_app\lib\screens\auth_screen.dart                                  | Dart             |        144 |          4 |         14 |        162 |
+| c:\Projects\ai_interview_app\lib\screens\dashboard_screen.dart                             | Dart             |        927 |          2 |         58 |        987 |
+| c:\Projects\ai_interview_app\lib\screens\interview_screen.dart                             | Dart             |      1,187 |          7 |        133 |      1,327 |
+| c:\Projects\ai_interview_app\lib\screens\interview_setup_screen.dart                       | Dart             |        421 |          0 |         16 |        437 |
+| c:\Projects\ai_interview_app\lib\screens\landing_screen.dart                               | Dart             |      1,454 |          5 |         81 |      1,540 |
+| c:\Projects\ai_interview_app\lib\screens\leaderboard_screen.dart                           | Dart             |        417 |          0 |         27 |        444 |
+| c:\Projects\ai_interview_app\lib\screens\login_screen.dart                                 | Dart             |        171 |          0 |         17 |        188 |
+| c:\Projects\ai_interview_app\lib\screens\onboarding_screen.dart                            | Dart             |        748 |          2 |         49 |        799 |
+| c:\Projects\ai_interview_app\lib\services\ai_service.dart                                  | Dart             |        111 |          2 |         25 |        138 |
+| c:\Projects\ai_interview_app\lib\services\auth_service.dart                                | Dart             |        106 |          0 |         22 |        128 |
+| c:\Projects\ai_interview_app\lib\services\face_monitor_service.dart                        | Dart             |        283 |          4 |         41 |        328 |
+| c:\Projects\ai_interview_app\lib\services\firestore_service.dart                           | Dart             |         70 |          2 |         13 |         85 |
+| c:\Projects\ai_interview_app\lib\theme\app_theme.dart                                      | Dart             |         12 |          0 |          1 |         13 |
+| c:\Projects\ai_interview_app\lib\widgets\custom_drawer.dart                                | Dart             |         77 |          3 |          5 |         85 |
+| c:\Projects\ai_interview_app\linux\CMakeLists.txt                                          | CMake            |        118 |          0 |         28 |        146 |
+| c:\Projects\ai_interview_app\linux\flutter\CMakeLists.txt                                  | CMake            |         79 |          0 |         10 |         89 |
+| c:\Projects\ai_interview_app\linux\flutter\generated_plugin_registrant.cc                  | C++              |          3 |          4 |          5 |         12 |
+| c:\Projects\ai_interview_app\linux\flutter\generated_plugin_registrant.h                   | C++              |          5 |          5 |          6 |         16 |
+| c:\Projects\ai_interview_app\linux\flutter\generated_plugins.cmake                         | CMake            |         18 |          0 |          6 |         24 |
+| c:\Projects\ai_interview_app\linux\main.cc                                                 | C++              |          5 |          0 |          2 |          7 |
+| c:\Projects\ai_interview_app\linux\my_application.cc                                       | C++              |         82 |         17 |         26 |        125 |
+| c:\Projects\ai_interview_app\linux\my_application.h                                        | C++              |          7 |          7 |          5 |         19 |
+| c:\Projects\ai_interview_app\macos\Flutter\GeneratedPluginRegistrant.swift                 | Swift            |         22 |          3 |          4 |         29 |
+| c:\Projects\ai_interview_app\macos\RunnerTests\RunnerTests.swift                           | Swift            |          7 |          2 |          4 |         13 |
+| c:\Projects\ai_interview_app\macos\Runner\AppDelegate.swift                                | Swift            |          8 |          0 |          2 |         10 |
+| c:\Projects\ai_interview_app\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json | JSON             |         68 |          0 |          1 |         69 |
+| c:\Projects\ai_interview_app\macos\Runner\Base.lproj\MainMenu.xib                          | XML              |        343 |          0 |          1 |        344 |
+| c:\Projects\ai_interview_app\macos\Runner\MainFlutterWindow.swift                          | Swift            |         12 |          0 |          4 |         16 |
+| c:\Projects\ai_interview_app\pubspec.yaml                                                  | YAML             |         33 |          0 |          8 |         41 |
+| c:\Projects\ai_interview_app\test\widget_test.dart                                         | Dart             |         14 |         10 |          7 |         31 |
+| c:\Projects\ai_interview_app\web\index.html                                                | HTML             |         38 |         16 |          6 |         60 |
+| c:\Projects\ai_interview_app\web\manifest.json                                             | JSON             |         35 |          0 |          1 |         36 |
+| c:\Projects\ai_interview_app\windows\CMakeLists.txt                                        | CMake            |         89 |          0 |         20 |        109 |
+| c:\Projects\ai_interview_app\windows\flutter\CMakeLists.txt                                | CMake            |         98 |          0 |         12 |        110 |
+| c:\Projects\ai_interview_app\windows\flutter\generated_plugin_registrant.cc                | C++              |         21 |          4 |          5 |         30 |
+| c:\Projects\ai_interview_app\windows\flutter\generated_plugin_registrant.h                 | C++              |          5 |          5 |          6 |         16 |
+| c:\Projects\ai_interview_app\windows\flutter\generated_plugins.cmake                       | CMake            |         24 |          0 |          6 |         30 |
+| c:\Projects\ai_interview_app\windows\runner\CMakeLists.txt                                 | CMake            |         34 |          0 |          7 |         41 |
+| c:\Projects\ai_interview_app\windows\runner\flutter_window.cpp                             | C++              |         49 |          7 |         16 |         72 |
+| c:\Projects\ai_interview_app\windows\runner\flutter_window.h                               | C++              |         20 |          5 |          9 |         34 |
+| c:\Projects\ai_interview_app\windows\runner\main.cpp                                       | C++              |         30 |          4 |         10 |         44 |
+| c:\Projects\ai_interview_app\windows\runner\resource.h                                     | C++              |          9 |          6 |          2 |         17 |
+| c:\Projects\ai_interview_app\windows\runner\utils.cpp                                      | C++              |         54 |          2 |         10 |         66 |
+| c:\Projects\ai_interview_app\windows\runner\utils.h                                        | C++              |          8 |          6 |          6 |         20 |
+| c:\Projects\ai_interview_app\windows\runner\win32_window.cpp                               | C++              |        210 |         24 |         55 |        289 |
+| c:\Projects\ai_interview_app\windows\runner\win32_window.h                                 | C++              |         48 |         31 |         24 |        103 |
+| Total                                                                                      |                  |      8,580 |        381 |        959 |      9,920 |
++--------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
