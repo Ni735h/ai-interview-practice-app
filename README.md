@@ -1,16 +1,63 @@
-# ai_interview_app
+ AI Interview Practice App – Short README
+An AI-driven interview simulator that asks role-based questions, evaluates your answers, monitors face & eye contact, and provides a final scoreboard.
 
-A new Flutter project.
+🚀 Quick Overview
+Generate Questions – Choose role (SDE, Data Analyst, CCNA, Flutter) + difficulty (Easy/Medium/Hard).
 
-## Getting Started
+Answer – Speak via mic or type manually.
 
-This project is a starting point for a Flutter application.
+Face Monitoring – Live camera checks for face presence and eye contact.
 
-A few resources to get you started if this is your first Flutter project:
+AI Evaluation – Feedback on relevance, correctness, and sample answers.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dashboard – View past attempts, leaderboard, and detailed score reports.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠 Tech Stack
+Layer	Tools
+Frontend	Flutter (Dart)
+Backend	FastAPI (Python)
+Database/Auth	Firebase Firestore & Firebase Auth
+AI	OpenRouter API (LLM)
+Voice	Speech-to-Text / Text-to-Speech
+Face	Google ML Kit Face Detection
+🏗 Architecture (Simplified)
+Flutter App ↔ FastAPI Backend ↔ OpenRouter AI + Firebase
+
+⚙️ Setup (for developers)
+Clone repo.
+
+Backend: cd backend, create virtual env, pip install -r requirements.txt, set .env with OpenRouter key & Firebase credentials, run uvicorn main:app --reload.
+
+Frontend: cd frontend, flutter pub get, run on emulator/device.
+
+📈 Key Features Highlight
+Adaptive AI questions – based on real job roles.
+
+Instant feedback – helps you improve on the spot.
+
+Face tracking – builds confidence in a simulated environment.
+
+Leaderboard – gamifies learning and practice.
+
+Full-stack integration – demonstrates end-to‑end development.
+
+🔒 Security
+API keys stored via .env (excluded from Git).
+
+Firebase security rules protect user data.
+
+CORS and validation in backend.
+
+🧠 What This Project Demonstrates
+Full-stack mobile development (Flutter + FastAPI).
+
+Integration of AI APIs.
+
+Real-time camera and voice processing.
+
+Professional Git workflow and clean code structure.
+
+👨‍💻 Author
+Nitesh Kanojiya
+
+Built as a Final Year Major Project to showcase AI‑powered interview preparation.
